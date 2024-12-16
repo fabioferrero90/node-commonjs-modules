@@ -1,0 +1,12 @@
+{
+  "name": "commonjs-modules",
+  "version": "1.0.0",
+  "description": "Exercise #32",
+  "main": "app.js",
+  "scripts": {
+    "test": "node --watch app.js",
+    "start": "node app.js"
+  },
+  "author": "Fabio Ferrero",
+  "license": "ISC"
+}
